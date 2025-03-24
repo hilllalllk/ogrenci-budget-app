@@ -1,1 +1,1 @@
-# ogrenci-budget-app
+# student-budget-tracking-automation
